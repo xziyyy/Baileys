@@ -15,9 +15,9 @@
     "whatsapp-group",
     "multi-device"
   ],
-  "homepage": "https://github.com/Whiskeysockets/Baileys",
+  "homepage": "https://github.com/ArabsDev/Baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:ArabsDev/Baileys.git"
   },
   "license": "MIT",
   "author": "ArabDevs",
@@ -111,6 +111,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/FizzxyDev/Baileys/issues"
+    "url": "https://github.com/ArabsDev/Baileys/issues"
   }
 }
