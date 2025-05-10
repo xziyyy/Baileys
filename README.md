@@ -15,6 +15,16 @@ Enhanced WhatsApp API library by ArabDevs Team
 - Full media support
 - Advanced session management
 
+## 🔥 How to Update to this version?
+- in package.json
+```json
+{
+  "dependencies": {
+    "@WhiskeySockets/Baileys": "github:ArabsDev/Baileys"
+  }
+}
+```
+
 ## 👨‍💻 ArabDevs Team
 ```JavaScript
 const team = {
